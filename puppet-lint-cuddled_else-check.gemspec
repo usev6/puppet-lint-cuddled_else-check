@@ -1,7 +1,7 @@
 Gem::Specification.new do |spec|
   spec.name        = 'puppet-lint-cuddled_else-check'
   spec.version     = '0.1.0'
-  spec.homepage    = 'https://github.com/optivo-org/puppet-lint-cuddled_else-check'
+  spec.homepage    = 'https://github.com/usev6/puppet-lint-cuddled_else-check'
   spec.license     = 'MIT'
   spec.author      = 'Christian Bartolomäus'
   spec.email       = 'use_v6@aglaz.de'
